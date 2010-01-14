@@ -1,0 +1,904 @@
+# Student 1 gpa: 0.673333333333333
+# Student 2 gpa: 2.00666666666667
+# Student 3 gpa: 3.34
+
+fix_1:
+  student_id: 1
+  grade: 0.0133333333333333
+fix_2:
+  student_id: 1
+  grade: 0.0266666666666667
+fix_3:
+  student_id: 1
+  grade: 0.04
+fix_4:
+  student_id: 1
+  grade: 0.0533333333333333
+fix_5:
+  student_id: 1
+  grade: 0.0666666666666667
+fix_6:
+  student_id: 1
+  grade: 0.08
+fix_7:
+  student_id: 1
+  grade: 0.0933333333333333
+fix_8:
+  student_id: 1
+  grade: 0.106666666666667
+fix_9:
+  student_id: 1
+  grade: 0.12
+fix_10:
+  student_id: 1
+  grade: 0.133333333333333
+fix_11:
+  student_id: 1
+  grade: 0.146666666666667
+fix_12:
+  student_id: 1
+  grade: 0.16
+fix_13:
+  student_id: 1
+  grade: 0.173333333333333
+fix_14:
+  student_id: 1
+  grade: 0.186666666666667
+fix_15:
+  student_id: 1
+  grade: 0.2
+fix_16:
+  student_id: 1
+  grade: 0.213333333333333
+fix_17:
+  student_id: 1
+  grade: 0.226666666666667
+fix_18:
+  student_id: 1
+  grade: 0.24
+fix_19:
+  student_id: 1
+  grade: 0.253333333333333
+fix_20:
+  student_id: 1
+  grade: 0.266666666666667
+fix_21:
+  student_id: 1
+  grade: 0.28
+fix_22:
+  student_id: 1
+  grade: 0.293333333333333
+fix_23:
+  student_id: 1
+  grade: 0.306666666666667
+fix_24:
+  student_id: 1
+  grade: 0.32
+fix_25:
+  student_id: 1
+  grade: 0.333333333333333
+fix_26:
+  student_id: 1
+  grade: 0.346666666666667
+fix_27:
+  student_id: 1
+  grade: 0.36
+fix_28:
+  student_id: 1
+  grade: 0.373333333333333
+fix_29:
+  student_id: 1
+  grade: 0.386666666666667
+fix_30:
+  student_id: 1
+  grade: 0.4
+fix_31:
+  student_id: 1
+  grade: 0.413333333333333
+fix_32:
+  student_id: 1
+  grade: 0.426666666666667
+fix_33:
+  student_id: 1
+  grade: 0.44
+fix_34:
+  student_id: 1
+  grade: 0.453333333333333
+fix_35:
+  student_id: 1
+  grade: 0.466666666666667
+fix_36:
+  student_id: 1
+  grade: 0.48
+fix_37:
+  student_id: 1
+  grade: 0.493333333333333
+fix_38:
+  student_id: 1
+  grade: 0.506666666666667
+fix_39:
+  student_id: 1
+  grade: 0.52
+fix_40:
+  student_id: 1
+  grade: 0.533333333333333
+fix_41:
+  student_id: 1
+  grade: 0.546666666666667
+fix_42:
+  student_id: 1
+  grade: 0.56
+fix_43:
+  student_id: 1
+  grade: 0.573333333333333
+fix_44:
+  student_id: 1
+  grade: 0.586666666666667
+fix_45:
+  student_id: 1
+  grade: 0.6
+fix_46:
+  student_id: 1
+  grade: 0.613333333333333
+fix_47:
+  student_id: 1
+  grade: 0.626666666666667
+fix_48:
+  student_id: 1
+  grade: 0.64
+fix_49:
+  student_id: 1
+  grade: 0.653333333333333
+fix_50:
+  student_id: 1
+  grade: 0.666666666666667
+fix_51:
+  student_id: 1
+  grade: 0.68
+fix_52:
+  student_id: 1
+  grade: 0.693333333333333
+fix_53:
+  student_id: 1
+  grade: 0.706666666666667
+fix_54:
+  student_id: 1
+  grade: 0.72
+fix_55:
+  student_id: 1
+  grade: 0.733333333333333
+fix_56:
+  student_id: 1
+  grade: 0.746666666666667
+fix_57:
+  student_id: 1
+  grade: 0.76
+fix_58:
+  student_id: 1
+  grade: 0.773333333333333
+fix_59:
+  student_id: 1
+  grade: 0.786666666666667
+fix_60:
+  student_id: 1
+  grade: 0.8
+fix_61:
+  student_id: 1
+  grade: 0.813333333333333
+fix_62:
+  student_id: 1
+  grade: 0.826666666666667
+fix_63:
+  student_id: 1
+  grade: 0.84
+fix_64:
+  student_id: 1
+  grade: 0.853333333333333
+fix_65:
+  student_id: 1
+  grade: 0.866666666666667
+fix_66:
+  student_id: 1
+  grade: 0.88
+fix_67:
+  student_id: 1
+  grade: 0.893333333333333
+fix_68:
+  student_id: 1
+  grade: 0.906666666666667
+fix_69:
+  student_id: 1
+  grade: 0.92
+fix_70:
+  student_id: 1
+  grade: 0.933333333333333
+fix_71:
+  student_id: 1
+  grade: 0.946666666666667
+fix_72:
+  student_id: 1
+  grade: 0.96
+fix_73:
+  student_id: 1
+  grade: 0.973333333333333
+fix_74:
+  student_id: 1
+  grade: 0.986666666666667
+fix_75:
+  student_id: 1
+  grade: 1.0
+fix_76:
+  student_id: 1
+  grade: 1.01333333333333
+fix_77:
+  student_id: 1
+  grade: 1.02666666666667
+fix_78:
+  student_id: 1
+  grade: 1.04
+fix_79:
+  student_id: 1
+  grade: 1.05333333333333
+fix_80:
+  student_id: 1
+  grade: 1.06666666666667
+fix_81:
+  student_id: 1
+  grade: 1.08
+fix_82:
+  student_id: 1
+  grade: 1.09333333333333
+fix_83:
+  student_id: 1
+  grade: 1.10666666666667
+fix_84:
+  student_id: 1
+  grade: 1.12
+fix_85:
+  student_id: 1
+  grade: 1.13333333333333
+fix_86:
+  student_id: 1
+  grade: 1.14666666666667
+fix_87:
+  student_id: 1
+  grade: 1.16
+fix_88:
+  student_id: 1
+  grade: 1.17333333333333
+fix_89:
+  student_id: 1
+  grade: 1.18666666666667
+fix_90:
+  student_id: 1
+  grade: 1.2
+fix_91:
+  student_id: 1
+  grade: 1.21333333333333
+fix_92:
+  student_id: 1
+  grade: 1.22666666666667
+fix_93:
+  student_id: 1
+  grade: 1.24
+fix_94:
+  student_id: 1
+  grade: 1.25333333333333
+fix_95:
+  student_id: 1
+  grade: 1.26666666666667
+fix_96:
+  student_id: 1
+  grade: 1.28
+fix_97:
+  student_id: 1
+  grade: 1.29333333333333
+fix_98:
+  student_id: 1
+  grade: 1.30666666666667
+fix_99:
+  student_id: 1
+  grade: 1.32
+fix_100:
+  student_id: 1
+  grade: 1.33333333333333
+fix_101:
+  student_id: 2
+  grade: 1.34666666666667
+fix_102:
+  student_id: 2
+  grade: 1.36
+fix_103:
+  student_id: 2
+  grade: 1.37333333333333
+fix_104:
+  student_id: 2
+  grade: 1.38666666666667
+fix_105:
+  student_id: 2
+  grade: 1.4
+fix_106:
+  student_id: 2
+  grade: 1.41333333333333
+fix_107:
+  student_id: 2
+  grade: 1.42666666666667
+fix_108:
+  student_id: 2
+  grade: 1.44
+fix_109:
+  student_id: 2
+  grade: 1.45333333333333
+fix_110:
+  student_id: 2
+  grade: 1.46666666666667
+fix_111:
+  student_id: 2
+  grade: 1.48
+fix_112:
+  student_id: 2
+  grade: 1.49333333333333
+fix_113:
+  student_id: 2
+  grade: 1.50666666666667
+fix_114:
+  student_id: 2
+  grade: 1.52
+fix_115:
+  student_id: 2
+  grade: 1.53333333333333
+fix_116:
+  student_id: 2
+  grade: 1.54666666666667
+fix_117:
+  student_id: 2
+  grade: 1.56
+fix_118:
+  student_id: 2
+  grade: 1.57333333333333
+fix_119:
+  student_id: 2
+  grade: 1.58666666666667
+fix_120:
+  student_id: 2
+  grade: 1.6
+fix_121:
+  student_id: 2
+  grade: 1.61333333333333
+fix_122:
+  student_id: 2
+  grade: 1.62666666666667
+fix_123:
+  student_id: 2
+  grade: 1.64
+fix_124:
+  student_id: 2
+  grade: 1.65333333333333
+fix_125:
+  student_id: 2
+  grade: 1.66666666666667
+fix_126:
+  student_id: 2
+  grade: 1.68
+fix_127:
+  student_id: 2
+  grade: 1.69333333333333
+fix_128:
+  student_id: 2
+  grade: 1.70666666666667
+fix_129:
+  student_id: 2
+  grade: 1.72
+fix_130:
+  student_id: 2
+  grade: 1.73333333333333
+fix_131:
+  student_id: 2
+  grade: 1.74666666666667
+fix_132:
+  student_id: 2
+  grade: 1.76
+fix_133:
+  student_id: 2
+  grade: 1.77333333333333
+fix_134:
+  student_id: 2
+  grade: 1.78666666666667
+fix_135:
+  student_id: 2
+  grade: 1.8
+fix_136:
+  student_id: 2
+  grade: 1.81333333333333
+fix_137:
+  student_id: 2
+  grade: 1.82666666666667
+fix_138:
+  student_id: 2
+  grade: 1.84
+fix_139:
+  student_id: 2
+  grade: 1.85333333333333
+fix_140:
+  student_id: 2
+  grade: 1.86666666666667
+fix_141:
+  student_id: 2
+  grade: 1.88
+fix_142:
+  student_id: 2
+  grade: 1.89333333333333
+fix_143:
+  student_id: 2
+  grade: 1.90666666666667
+fix_144:
+  student_id: 2
+  grade: 1.92
+fix_145:
+  student_id: 2
+  grade: 1.93333333333333
+fix_146:
+  student_id: 2
+  grade: 1.94666666666667
+fix_147:
+  student_id: 2
+  grade: 1.96
+fix_148:
+  student_id: 2
+  grade: 1.97333333333333
+fix_149:
+  student_id: 2
+  grade: 1.98666666666667
+fix_150:
+  student_id: 2
+  grade: 2.0
+fix_151:
+  student_id: 2
+  grade: 2.01333333333333
+fix_152:
+  student_id: 2
+  grade: 2.02666666666667
+fix_153:
+  student_id: 2
+  grade: 2.04
+fix_154:
+  student_id: 2
+  grade: 2.05333333333333
+fix_155:
+  student_id: 2
+  grade: 2.06666666666667
+fix_156:
+  student_id: 2
+  grade: 2.08
+fix_157:
+  student_id: 2
+  grade: 2.09333333333333
+fix_158:
+  student_id: 2
+  grade: 2.10666666666667
+fix_159:
+  student_id: 2
+  grade: 2.12
+fix_160:
+  student_id: 2
+  grade: 2.13333333333333
+fix_161:
+  student_id: 2
+  grade: 2.14666666666667
+fix_162:
+  student_id: 2
+  grade: 2.16
+fix_163:
+  student_id: 2
+  grade: 2.17333333333333
+fix_164:
+  student_id: 2
+  grade: 2.18666666666667
+fix_165:
+  student_id: 2
+  grade: 2.2
+fix_166:
+  student_id: 2
+  grade: 2.21333333333333
+fix_167:
+  student_id: 2
+  grade: 2.22666666666667
+fix_168:
+  student_id: 2
+  grade: 2.24
+fix_169:
+  student_id: 2
+  grade: 2.25333333333333
+fix_170:
+  student_id: 2
+  grade: 2.26666666666667
+fix_171:
+  student_id: 2
+  grade: 2.28
+fix_172:
+  student_id: 2
+  grade: 2.29333333333333
+fix_173:
+  student_id: 2
+  grade: 2.30666666666667
+fix_174:
+  student_id: 2
+  grade: 2.32
+fix_175:
+  student_id: 2
+  grade: 2.33333333333333
+fix_176:
+  student_id: 2
+  grade: 2.34666666666667
+fix_177:
+  student_id: 2
+  grade: 2.36
+fix_178:
+  student_id: 2
+  grade: 2.37333333333333
+fix_179:
+  student_id: 2
+  grade: 2.38666666666667
+fix_180:
+  student_id: 2
+  grade: 2.4
+fix_181:
+  student_id: 2
+  grade: 2.41333333333333
+fix_182:
+  student_id: 2
+  grade: 2.42666666666667
+fix_183:
+  student_id: 2
+  grade: 2.44
+fix_184:
+  student_id: 2
+  grade: 2.45333333333333
+fix_185:
+  student_id: 2
+  grade: 2.46666666666667
+fix_186:
+  student_id: 2
+  grade: 2.48
+fix_187:
+  student_id: 2
+  grade: 2.49333333333333
+fix_188:
+  student_id: 2
+  grade: 2.50666666666667
+fix_189:
+  student_id: 2
+  grade: 2.52
+fix_190:
+  student_id: 2
+  grade: 2.53333333333333
+fix_191:
+  student_id: 2
+  grade: 2.54666666666667
+fix_192:
+  student_id: 2
+  grade: 2.56
+fix_193:
+  student_id: 2
+  grade: 2.57333333333333
+fix_194:
+  student_id: 2
+  grade: 2.58666666666667
+fix_195:
+  student_id: 2
+  grade: 2.6
+fix_196:
+  student_id: 2
+  grade: 2.61333333333333
+fix_197:
+  student_id: 2
+  grade: 2.62666666666667
+fix_198:
+  student_id: 2
+  grade: 2.64
+fix_199:
+  student_id: 2
+  grade: 2.65333333333333
+fix_200:
+  student_id: 2
+  grade: 2.66666666666667
+fix_201:
+  student_id: 3
+  grade: 2.68
+fix_202:
+  student_id: 3
+  grade: 2.69333333333333
+fix_203:
+  student_id: 3
+  grade: 2.70666666666667
+fix_204:
+  student_id: 3
+  grade: 2.72
+fix_205:
+  student_id: 3
+  grade: 2.73333333333333
+fix_206:
+  student_id: 3
+  grade: 2.74666666666667
+fix_207:
+  student_id: 3
+  grade: 2.76
+fix_208:
+  student_id: 3
+  grade: 2.77333333333333
+fix_209:
+  student_id: 3
+  grade: 2.78666666666667
+fix_210:
+  student_id: 3
+  grade: 2.8
+fix_211:
+  student_id: 3
+  grade: 2.81333333333333
+fix_212:
+  student_id: 3
+  grade: 2.82666666666667
+fix_213:
+  student_id: 3
+  grade: 2.84
+fix_214:
+  student_id: 3
+  grade: 2.85333333333333
+fix_215:
+  student_id: 3
+  grade: 2.86666666666667
+fix_216:
+  student_id: 3
+  grade: 2.88
+fix_217:
+  student_id: 3
+  grade: 2.89333333333333
+fix_218:
+  student_id: 3
+  grade: 2.90666666666667
+fix_219:
+  student_id: 3
+  grade: 2.92
+fix_220:
+  student_id: 3
+  grade: 2.93333333333333
+fix_221:
+  student_id: 3
+  grade: 2.94666666666667
+fix_222:
+  student_id: 3
+  grade: 2.96
+fix_223:
+  student_id: 3
+  grade: 2.97333333333333
+fix_224:
+  student_id: 3
+  grade: 2.98666666666667
+fix_225:
+  student_id: 3
+  grade: 3.0
+fix_226:
+  student_id: 3
+  grade: 3.01333333333333
+fix_227:
+  student_id: 3
+  grade: 3.02666666666667
+fix_228:
+  student_id: 3
+  grade: 3.04
+fix_229:
+  student_id: 3
+  grade: 3.05333333333333
+fix_230:
+  student_id: 3
+  grade: 3.06666666666667
+fix_231:
+  student_id: 3
+  grade: 3.08
+fix_232:
+  student_id: 3
+  grade: 3.09333333333333
+fix_233:
+  student_id: 3
+  grade: 3.10666666666667
+fix_234:
+  student_id: 3
+  grade: 3.12
+fix_235:
+  student_id: 3
+  grade: 3.13333333333333
+fix_236:
+  student_id: 3
+  grade: 3.14666666666667
+fix_237:
+  student_id: 3
+  grade: 3.16
+fix_238:
+  student_id: 3
+  grade: 3.17333333333333
+fix_239:
+  student_id: 3
+  grade: 3.18666666666667
+fix_240:
+  student_id: 3
+  grade: 3.2
+fix_241:
+  student_id: 3
+  grade: 3.21333333333333
+fix_242:
+  student_id: 3
+  grade: 3.22666666666667
+fix_243:
+  student_id: 3
+  grade: 3.24
+fix_244:
+  student_id: 3
+  grade: 3.25333333333333
+fix_245:
+  student_id: 3
+  grade: 3.26666666666667
+fix_246:
+  student_id: 3
+  grade: 3.28
+fix_247:
+  student_id: 3
+  grade: 3.29333333333333
+fix_248:
+  student_id: 3
+  grade: 3.30666666666667
+fix_249:
+  student_id: 3
+  grade: 3.32
+fix_250:
+  student_id: 3
+  grade: 3.33333333333333
+fix_251:
+  student_id: 3
+  grade: 3.34666666666667
+fix_252:
+  student_id: 3
+  grade: 3.36
+fix_253:
+  student_id: 3
+  grade: 3.37333333333333
+fix_254:
+  student_id: 3
+  grade: 3.38666666666667
+fix_255:
+  student_id: 3
+  grade: 3.4
+fix_256:
+  student_id: 3
+  grade: 3.41333333333333
+fix_257:
+  student_id: 3
+  grade: 3.42666666666667
+fix_258:
+  student_id: 3
+  grade: 3.44
+fix_259:
+  student_id: 3
+  grade: 3.45333333333333
+fix_260:
+  student_id: 3
+  grade: 3.46666666666667
+fix_261:
+  student_id: 3
+  grade: 3.48
+fix_262:
+  student_id: 3
+  grade: 3.49333333333333
+fix_263:
+  student_id: 3
+  grade: 3.50666666666667
+fix_264:
+  student_id: 3
+  grade: 3.52
+fix_265:
+  student_id: 3
+  grade: 3.53333333333333
+fix_266:
+  student_id: 3
+  grade: 3.54666666666667
+fix_267:
+  student_id: 3
+  grade: 3.56
+fix_268:
+  student_id: 3
+  grade: 3.57333333333333
+fix_269:
+  student_id: 3
+  grade: 3.58666666666667
+fix_270:
+  student_id: 3
+  grade: 3.6
+fix_271:
+  student_id: 3
+  grade: 3.61333333333333
+fix_272:
+  student_id: 3
+  grade: 3.62666666666667
+fix_273:
+  student_id: 3
+  grade: 3.64
+fix_274:
+  student_id: 3
+  grade: 3.65333333333333
+fix_275:
+  student_id: 3
+  grade: 3.66666666666667
+fix_276:
+  student_id: 3
+  grade: 3.68
+fix_277:
+  student_id: 3
+  grade: 3.69333333333333
+fix_278:
+  student_id: 3
+  grade: 3.70666666666667
+fix_279:
+  student_id: 3
+  grade: 3.72
+fix_280:
+  student_id: 3
+  grade: 3.73333333333333
+fix_281:
+  student_id: 3
+  grade: 3.74666666666667
+fix_282:
+  student_id: 3
+  grade: 3.76
+fix_283:
+  student_id: 3
+  grade: 3.77333333333333
+fix_284:
+  student_id: 3
+  grade: 3.78666666666667
+fix_285:
+  student_id: 3
+  grade: 3.8
+fix_286:
+  student_id: 3
+  grade: 3.81333333333333
+fix_287:
+  student_id: 3
+  grade: 3.82666666666667
+fix_288:
+  student_id: 3
+  grade: 3.84
+fix_289:
+  student_id: 3
+  grade: 3.85333333333333
+fix_290:
+  student_id: 3
+  grade: 3.86666666666667
+fix_291:
+  student_id: 3
+  grade: 3.88
+fix_292:
+  student_id: 3
+  grade: 3.89333333333333
+fix_293:
+  student_id: 3
+  grade: 3.90666666666667
+fix_294:
+  student_id: 3
+  grade: 3.92
+fix_295:
+  student_id: 3
+  grade: 3.93333333333333
+fix_296:
+  student_id: 3
+  grade: 3.94666666666667
+fix_297:
+  student_id: 3
+  grade: 3.96
+fix_298:
+  student_id: 3
+  grade: 3.97333333333333
+fix_299:
+  student_id: 3
+  grade: 3.98666666666667
+fix_300:
+  student_id: 3
+  grade: 4.0
